@@ -11,11 +11,6 @@ pipeline {
                sh "pwd"
             }
         }
-        stage('Stage3'){
-            steps {
-               sh "mv"
-            }
-        }
         stage('Stage4'){
             steps {
                echo 'hello new'
