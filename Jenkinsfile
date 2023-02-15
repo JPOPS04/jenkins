@@ -1,14 +1,13 @@
 pipeline {
     agent any
     stages {
-        stage('Stage 1'){
+        stage('Stage1'){
             steps {
                 sh "ls"
             }
         }
-        stage(‘second stage’){
+        stage(‘Stage2’){
             steps {
                sh “pwd” 
             }
-        }
-    }        
+        }    
