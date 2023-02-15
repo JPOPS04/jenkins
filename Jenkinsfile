@@ -9,21 +9,11 @@ pipeline {
         stage('Stage2'){
             steps {
                sh "pwd"
-            }
-        }
-        stage('Stage3'){
-            steps {
-               echo 'hello new'
-            }
-        }
-        stage('Stage4'){
-            steps {
-               sh "touch newfile.txt"
-            }
-        }
-        stage('Stage5'){
-            steps {
-               sh "mv newfile.txt"
+               sh 'touch newfile.txt'
+               sh 'echo "newfile.txt created"'
+               sh 'mv newfile.txt pipelineDocument.txt'
+               sh 'echo ".txt Document renamed"'
+               sh "pwd" 
             }
         }
     }
