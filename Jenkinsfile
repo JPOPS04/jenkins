@@ -11,14 +11,19 @@ pipeline {
                sh "pwd"
             }
         }
-        stage('Stage4'){
+        stage('Stage3'){
             steps {
                echo 'hello new'
             }
         }
-        stage('Stage5'){
+        stage('Stage4'){
             steps {
                sh "touch newfile.txt"
+            }
+        }
+        stage('Stage5'){
+            steps {
+               sh "mv newfile.txt"
             }
         }
     }
