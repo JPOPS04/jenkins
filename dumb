@@ -1,0 +1,146 @@
+Agile Development is when the problem is broken down into sections which are developed in parallel. It aims to improve flexibility of SD and helps to facilitate changing user requirements at a much faster rate. A working prototype is delivered early on and are further improved upon through iterative development and user feedback. This results in a much more accurate and tailored to the user requirements. User Satisfaction > Documentation 
+Agile is a methodology based upon the agile manifesto. 
+1.	Individuals and Interactions Over Processes and Tools
+2.	Working Software Over Comprehensive Documentation 
+3.	Customer Collaboration over Contract Negotiation
+4.	Responding to change over Following a plan
+12 Agile Principles
+1.	Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+2.	Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.
+3.	Deliver working software frequently, from a couple of weeks to a couple of months with preference to shorter timescale.
+4.	Business people and developers must work daily throughout the project 
+5.	Build project around motivated individuals. Give them the environment and support they need and trust them to get the job done.
+6.	The most effective and efficient method of conveying information to and within a development team is face to face conversation.
+7.	Working software is the primary measure of progress
+8.	Agile processes promote sustainable development. The sponsors, developer and users should be able to maintain a constant pace indefinitely.
+9.	Continuous attention to technical excellence and good design enhances agility 
+10.	Simplicity – the art of maximising the amount of work not done is essential  
+11.	The best architectures, requirements and designs emerge from self-organising teams.
+12.	At regular intervals the team reflects on how to become more effective, the tunes and adjusts its behaviours accordingly.
+Benefits of Agile 
+1.	Transparency 
+2.	Predictable Costs and Schedule
+3.	Allows for Change
+4.	Improves Software Quality 
+5.	Agile to do is to be able to deliver value a lot more quickly. Because Agile is iterative and is incremental, it allows businesses to deliver value a lot more quickly than traditional methods of delivery
+
+
+
+Scrum - a framework within which people can address complex adaptive problems, while productively and creatively delivering a product/service of the highest possible value. Found on empirical control theory. Empiricism in Scrum is an approach whereby the team continuously learns and improves from mistakes. Based on 3 Pillars: Transparency, Inspection, Adaptation.
+Transparency - All parts of the process should be transparent, open, and honest for everyone to see. All requirements your team are using should be written so that everyone can understand them. 
+Inspection - Frequently check on the work you're creating. The Scrum artifacts and progresses towards a sprint goal. Important that everything that is worked on during a sprint can be inspected by the team to make sure that it is achieving what it needs to. 
+Adaptation - If a member of the Scrum team or a stakeholder notice that things aren't going according to plan, the team will need to change up what they're doing to fix this as quickly as possible.
+5 Values - Courage, Focus, Commitment, Respect, Openness
+Scrum teams are self-organising & cross functional and consists of a product owner, scrum master, development team.
+Product Owner – Single Person who is in charge of managing the product backlog (a list of work that has to be done). They should collaborate and engage with stakeholders to understand needs done and create that backlog, which is used and pulled into the sprint planning, from which it can be prioritise.
+Scrum Master – Servant Leader who is aim is to help the entire team achieve the scrum goals. Help them adopt the values of scrum and to help them to be the most efficient and effective team they can be. In many situations they will work with the product owner to help to achieve their objectives also. Owner of scrum events
+Development Team – people who actually make things within scrum i.e, creators of the product or service. They must be self-organising and must decide how to deliver the increments. Should be a quick turnaround time from backlog to workable increment. Secondly, the team has to be cross-functional i.e all members of the team must have varied set of skills such that they can give solutions to various problems.
+Scrum Artifacts are a way of thinking about the work that has being done or needs to be done. There are 3 artifacts – Product Backlog, Sprint Backlog, The Increment.
+Product Backlog is owned by the product owner. Consists of epics, user stories, tasks, bugs. These are used to represent work to be done with important tasks are 
+Epics – large amounts of work that can be broken down into lots of smaller tasks.
+User Stories – smaller pieces of work that are standalone and they explain why the specific product or service needs to be created.
+Sprint Backlog – A subset of the product backlog and is the lists the work items to complete in that particular sprint.
+Increment – All the work completed during the existing and previous sprints combined. Teams need to communicate how to deliver increment on time and to estimate future work done.
+User Stories - Created using 3 C’s: Card, Conversation, Confirmation.
+Card - Should be simple and easy to understand. Who is the user? What do they want? Why do they want it?
+Conversation – Ongoing between stakeholders – helps to avoid misunderstanding and lets everyone collaborate properly.
+Confirmation – Product Owner confirms whether or not increment meets the requirements.
+INVEST model is used to verify if the user story is ready to be pulled into sprint backlog
+Independent – Stories need to be independent of each other
+Negotiable – No demands or contracts i.e allow room for imagination
+Valuable – Product/Increment should be of value to stakeholders
+Estimable - Teams can estimate the amount of effort each user story will take to action
+Small – Compact user stories = estimable and achievable in a single sprint
+Testable – The increment should be put together such that it can be tested easily. 
+Incremental Delivery ensure that developers can deliver the product or service in small packets of end-to-end functionality.
+Scrum Framework consists of 5 events: Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective, Sprint and are co-ordinated by the scrum master.
+Sprint Planning - Occurs at the start of every sprint. Developers work with product owner to decide what to pull from the product backlog into the sprint backlog for that particular sprint. From which they estimate the effort needed to complete the sprint and will further break down the items into requirements which results in a small number of goals, set and have to be met by the end of that sprint.
+Daily Scrum - Used to make sure that everyone in the development team is up to date with each other and helps everyone understand the status of the sprint. 3 questions asked What did I do yesterday that helped the development team to meet the sprint goal? What will I do today I order to help us achieve the sprint goal? What could stop me from doing so?
+Sprint Review – Developers will present the increment that they have been working to the stakeholders and they will provide feedback, which will be used to iteratively developed. What has been achieved?
+Sprint Retrospective – Team reflects and discusses WWW and EBI. 
+Sprint - Sprint consists of the sprint planning, daily scrums, the development work, the sprint review, and the sprint retrospective. 
+
+
+
+DevOps – A philosophy of the efficient, development, deployment and operation of the highest quality software possible. Cross-Functional teams breakdown communication barriers. Aim to break the silos between the two teams, developers and operations. Purpose to removes inefficiencies that exist throughout the development, deployment and operational pipeline in addition to improving quality. 3 Pillars – Culture, Automation, Metrics
+Culture – vision, values, beliefs and habits of a company. However traditional company culture will clash with DevOps. Remove silos and everyone works towards one goal = shared responsibility = blameless culture.
+Automation = Reducing human intervention in a process to a minimum = Reduce human errors. Provides consistency, predictability, scalability & quality. Implement by first locating constraints and then introduce automation.
+Metrics – ADD ALL METRICS IN BOOK
+Lead Time – 
+1.	Establish a clear baseline
+2.	Top-Down cultural changes
+3.	Automated continuous delivery process
+3.1.	Develop, check code
+3.2.	Process takes over and checks to see if code meets all the requirements to be production quality
+3.3.	Person can deploy at a push of a button into any environment. 
+Improve Lead Time:
+1.	Review pipeline
+2.	Identify constraints 
+3.	Remove/reduce constraints
+4.	Repeat cycle until all goals met!
+Stability - Operations tries to prevent instabilities created during development. Cross-functional teams allows continuous flow of production of quality software. Metrics provide baseline from which changes impact can be measured. Automation allows problems to identify before it makes it into production.
+Reduce Operational Costs –
+1.	Improve code quality & infrastructure pipeline
+2.	Implement continuous delivery process 
+3.	Reduction on time spent on unplanned work
+4.	Reduction in burnout-based turnover
+
+
+
+
+Continuous Integration – is a process where developers continual integrate & add to their code throughout the day to a shared repository and each commit is automatically tested and built. Makes it easier to find errors. Build and test each commit, helps to verify that code is one step closer to production quality code.
+1.	Check out code and make changes.
+2.	Run unit tests locally to verify the changes.
+3.	Commit code back to version control.
+4.	An automated process grabs changes, builds, and tests.
+Developer ➡ Repository ➡ CI Server ➡ Pass ➡ Tester ➡ Release Deploy
+If test failed, code is sent back to developer
+Mirroring production will reduce bugs by environmental discrepancies
+Version Control – about tracking changes to one or more file over time. Enables multiple developers to work on a single project and track changes. 
+Centralized VC (Client-Server) – Code is located on master server & developers check out on their computer. They work on the code on their device and send it back to the server, like a library. Tight access control.
+Distributed VC - Full History of project located locally. Once repository cloned user has access to everything. Changes can be pushed to others.
+GitHub is an online code repository. 
+Testing is carried out to catch problems early. 
+Unit tests – Tests a single unit of code & responsible for determining if classes, functions, and methods behave the way they are expected to. Tests the logic of the code. Need to provide immediate feedback to developer to see if any changes broke the system and they don’t need to interact with external resources.
+Linters – Quality assessment tools that help to improve code quality by identifying know issues. 
+Code Coverage Tools – How much of your code is tested by your test.
+Source Code Analysis Tools – Checks for known security holes and identify use of dependency.
+Database Schema Changes – 
+ORM (Object Relational Mapper) – Allows to represent database with classes in your code
+Schema Migration Tools – refers to the management of version controlled, incremental and reversible changes to relevant database schemas.
+Strategy - 
+1.	Database should be versioned 
+2.	One Schema change per migration
+3.	Changes should be non-destructive
+4.	New Columns require sane defaults 
+Continuous Delivery – A way of building software such that it can be deployed to a specified environment whenever you want. Multiple Layers of Testing to ensure that the deployed software is of the highest quality i.e production quality.
+Why CD? – 
+1.	Increased Software quality due to tests
+2.	Improved cycle time – developers to end-users – faster
+3.	Better resource management – more testing – less waste of time & money 
+4.	Reduce deployment risk 
+5.	Better Customer Feedback loops
+Feature Toggles – Develop code in modular & incremental state. A way of having code checked and to see if a given feature is enabled and if so, it will allow the code to execute. 
+Release Toggles – Method of that allows developers to conditionally execute code, based on the state of the toggle. Allows developer to build code, then check if feature is enabled, is so then it can be deployed. Allows new features to be deployed and not break anything.
+Technical Debt is a negative outcome from release toggles. It is when developers save time in the short run by doing something the easy way but consequently have to spend more time redoing it later. Increases project completion time.
+Inversion Control – a mechanism for increasing modularity of your code. Aims to make components interchangeable and replaceable = more modular = more testable 
+Monolith Architecture – all modules are in one application. Singular application that contains all the modules needed to perform its job. If monoliths are too big = time consuming testing = bottlenecks.
+Microservices – discrete services that serve a specific purpose
+Immutable servers – Servers whose settings don’t change, only the server is replaced.
+Mutable servers – Servers whose configuration and settings will change over time.
+Benefits of Mutable Servers – 
+1.	Useful for small projects or small teams that don’t want the extra overhead of managing virtual machine images.
+2.	Ad hoc commands for things like security patches 
+3.	Lots of configuration management tools regarding deployments
+4.	CM scripts under version control allows shared ownership
+Drawbacks of Mutable Servers –
+1.	Upgrade or Deployment fail, the server can be left in a broken state due to making changes overtime.
+2.	May have to use CM tool to handle scaling
+3.	Any change to OS needs to be tested separately to ensure nothing breaks
+Benefits of Immutable Servers – 
+1.	Having the server in a known working state for each deployment = higher trust 
+2.	Use deployment and scaling features on cloud platform, once a server image has been created, scaling out is a relatively quick process.
+3.	If new deployed changes fail, previous server images can be used & since Ad hoc commands shouldn’t be run, ensures OS changes are tested via testing gates thus no additional testing required for OS level changes. 
+Drawbacks of Immutable Servers –
+1.	Longer build times because you’re merging a base OS with an application and creating server images which need to be stored and managed
+2.	Any OS changes require bake and deploy = time consuming
